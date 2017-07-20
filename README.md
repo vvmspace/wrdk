@@ -1,1 +1,1 @@
-# wrdk
+# WRDK - Symfony based website
